@@ -1,0 +1,91 @@
+[
+  {
+    "name": "All",
+    "aka": [],
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "price": "free",
+        "duration": "1 year",
+        "url": "http://www.amazon.com/b/ref=tb_surl_astudent/?node=668781011",
+        "tags": ["books", "shopping"]
+      },
+      {
+        "name": "Netflix",
+        "price": "free",
+        "duration": "1 month",
+        "url": "http://www.savethestudent.org/student-discounts/netflix.html",
+        "tags": ["entertainment", "movies"]
+      },
+      {
+        "name": "Spotify Premium",
+        "duration": "forever",
+        "price": "discount",
+        "url": "https://www.spotify.com/us/student/",
+        "tags": ["entertainment", "music"]
+      },
+      {
+        "name": "Norton Antivirus",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://us.norton.com/norton-students/",
+        "tags": ["security", "software"]
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.adobe.com/creativecloud/buy/students.html",
+        "tags": ["art", "photography", "software"]
+      },
+      {
+        "name": "Club Monaco",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.clubmonaco.com/category/index.jsp?categoryId=12724041",
+        "tags": ["clothing", "apparel"]
+      }
+    ]
+  },
+  {
+    "name": "William & Mary",
+    "aka": ["w&m", "wm"],
+    "products": [
+      {
+        "name": "Microsoft Office",
+        "price": "free",
+        "duration": "forever",
+        "url": "http://www.wm.edu/offices/it/services/software/licensedsoftware/officeproductivity/officestudents/index.php",
+        "tags": ["tech", "education", "software"]
+      },
+      {
+        "name": "Matlab",
+        "price": "free",
+        "duration": "forever",
+        "url": "http://www.wm.edu/offices/it/services/software/licensedsoftware/mathstats/matlabfac/index.php",
+        "tags": ["math", "software"]
+      },
+      {
+        "name": "The Campus Shop",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.williamsburgsouvenirco.com/",
+        "tags": ["clothing", "apparel", "school spirit"]
+      }
+    ]
+  },
+  {
+    "name": "Virginia Commonwealth University",
+    "aka": ["VCU"],
+    "products": [
+      {
+        "name": "Microsoft Office 365",
+        "price": "discount",
+        "duration": "forever",
+        "url": "",
+        "tags": ["software", "education"]
+      }
+    ]
+  }
+]
+
