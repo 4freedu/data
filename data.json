@@ -44,6 +44,90 @@
         "duration": "forever",
         "url": "http://www.clubmonaco.com/category/index.jsp?categoryId=12724041",
         "tags": ["clothing", "apparel"]
+      },
+      {
+        "name": "Apple Mac & iPad",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://store.apple.com/us/browse/campaigns/education_pricing",
+        "tags": ["computer", "tech"]
+      },
+      {
+        "name": "AMC Cinema",
+        "price": "discount",
+        "duration": "forever",
+        "url": "https://www.amctheatres.com/offers",
+        "tags": ["movies", "entertainment"]
+      },
+      {
+        "name": "Cinemark",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.cinemark.com/discounts-student-discounts",
+        "tags": ["movies", "entertainment"]
+      },
+      {
+        "name": "General Motors",
+        "price": "discount",
+        "duration": "forever",
+        "url": "https://www.gmcollegediscount.com/",
+        "tags": ["car", "transportation"]
+      },
+      {
+        "name": "Coach USA",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.coachusa.com/info/shortline/gc/coach.ss.tickets.item4.content.asp",
+        "tags": ["transportation"]
+      },
+      {
+        "name": "Eurail",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.eurail.com/eurail-passes/deals-discounts/youth-discounts",
+        "tags": ["transportation"]
+      },
+      {
+        "name": "Geico",
+        "price": "discount",
+        "duration": "forever",
+        "url": "https://www.geico.com/information/discounts/student-discounts/",
+        "tags": ["car", "insurance", "transportation"]
+      },
+      {
+        "name": "Sam's Club",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=compareMembershipBenefitsColl",
+        "tags": ["shopping", "groceries"]
+      },
+      {
+        "name": "New York Times",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://homedelivery.nytimes.com/HDS/StudentHome.do?mode=studHome",
+        "tags": ["news", "books", "magazines"]
+      },
+      {
+        "name": "Ann Taylor",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://www.anntaylor.com/ann-style-for-students-lp/cat50006",
+        "tags": ["apparel", "clothing"]
+      },
+      {
+        "name": "J. Crew",
+        "price": "discount",
+        "duration": "forever",
+        "url": "https://www.jcrew.com/help/teacher_student_discount.jsp",
+        "tags": ["clothing", "apparel"]
+      },
+      {
+        "name": "Levi's Jeans",
+        "price": "discount",
+        "duration": "forever",
+        "url": "http://us.levi.com/shop/index.jsp?categoryId=23491066",
+        "tags": ["clothing", "apparel"]
       }
     ]
   },
